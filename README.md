@@ -5,12 +5,12 @@ Global variables:
   
 Public methods:
 
-| First Header  | Second Header |
+| Name  | Description |
 | ------------- | ------------- |
 | `updateTitle`  | Update messenger title  |
 | `write`  | Write on page and send message to Web Socket  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| `wsSend`  | Send message to Web Socket  |
+| `removeStyles`  | Remove styles from form  |
 
 | Name            | Description |
 | `updateTitle`   | Content Cell  |
