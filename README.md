@@ -7,8 +7,8 @@ Public methods:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| `Content Cell`  | Content Cell  |
-| Content Cell  | Content Cell  |
+| `updateTitle`  | Update messenger title  |
+| `write`  | Write on page and send message to Web Socket  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
