@@ -7,7 +7,7 @@ Public methods:
 
 | Name  | Description |
 | ------------- | ------------- |
-| `updateTitle`  | Update messenger title  |
-| `write`  | Write on page and send message to Web Socket  |
-| `wsSend`  | Send message to Web Socket  |
-| `removeStyles`  | Remove styles from form  |
+| **`updateTitle`**  | Update messenger title  |
+| **`write`**  | Write on page and send message to Web Socket  |
+| **`wsSend`**  | Send message to Web Socket  |
+| **`removeStyles`**  | Remove styles from form  |
