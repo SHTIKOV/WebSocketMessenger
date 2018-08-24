@@ -9,6 +9,7 @@ Public methods:
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 | Name            | Description |
 | `updateTitle`   | Content Cell  |
