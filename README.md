@@ -1,4 +1,4 @@
-# Web Socket Messenger (**`v 0.01`**)
+# Web Socket Messenger (**v 0.01**)
 > `Web Socket Messenger` is small library for creating simple form for chating
 > with using `websocket.org`.
 
