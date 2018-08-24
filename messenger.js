@@ -245,5 +245,3 @@ function Messenger () {
 
   self.init ();
 }
-
-var Messenger = new Messenger ();
