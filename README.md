@@ -1,6 +1,6 @@
 # Web Socket Messenger (**v 0.01**)
 > `Web Socket Messenger` is small library for creating simple form for chating
-> with using [websocket.org](websocket.org).
+> with using [websocket.org](http://websocket.org).
 
 ## Global variables:
   `Messenger`: Object messenger form
